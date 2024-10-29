@@ -10,7 +10,7 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
 # 안녕하세요. 👋
-## 멀티캠퍼스 현대이지웰 3기 강영우 입니다!👋 **두껍게** <br> 
+**두껍게** <br>  ## 멀티캠퍼스 현대이지웰 3기 강영우 입니다!👋 
 ### 경영정보학과를 졸업했습니다!👋
 #### 코딩 14시간을 주7일 투자하겠습니다! 👋
 ##### 겸손하게 배우는 사람이 되겠습니다! 👋
