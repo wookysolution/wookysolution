@@ -9,11 +9,12 @@
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
+# 안녕하세요. 👋
+## 멀티캠퍼스 현대이지웰 3기 강영우 입니다!👋 **두껍게** <br> 
+### 경영정보학과를 졸업했습니다!👋
+#### 코딩 14시간을 주7일 투자하겠습니다! 👋
+##### 겸손하게 배우는 사람이 되겠습니다! 👋
+###### 감사합니다! :)👋
 ---
 
 **두껍게** <br> 
@@ -26,6 +27,7 @@
 - 2번
 
 [네이버](naver.com)
+[개인블로그](---.com)
 
 ```
 System.out.println("Hi World");
